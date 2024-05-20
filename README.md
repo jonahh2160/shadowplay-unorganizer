@@ -18,9 +18,7 @@ I made this for personal use, but feel free to use it how you'd like, or if you 
 
 > *Optional: move the `unorganizer_config.yaml` into the same directory and edit its contents*
 
-> Open a terminal in the same directory (you can do this by clicking the file path, deleting the selection, and typing `cmd`)
-
-> In the terminal, type `python sp_unorganizer.py`
+> Open the `run.bat` batch file
 
 > Let the script run
 
