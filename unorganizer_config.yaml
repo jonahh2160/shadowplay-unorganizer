@@ -1,0 +1,7 @@
+# Config file for shadowplay_unorganizer.py
+# You can add more folders to the exemption list, just follow the yaml convention
+target_directory: /path/to/target/directory
+exempt_folders:
+  - folder1
+  - folder2
+  - folder3
